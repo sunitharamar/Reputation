@@ -1,0 +1,34 @@
+Requirements:
+
+beautifulsoup4==4.6.0
+
+selenium==3.5.0
+
+splinter==0.7.6
+
+pandas==0.20.3
+
+
+How to run the app:
+
+Problem1
+
+1) I have implemented in Jupyter notebook which is using Pandas and ipython.
+
+   "find_doctors.ipynb"
+
+  I had quite a few challenges with getting the data, and some of them still dont work, but I did my best to write the code on how I would scrape the data.  Spent almost two full days working on it, though not all the code works but I really enjoyed working with this challenge and learnt a lot on how secured websites work.
+
+  I would love to learn from "Reputation" on how to scrape thos website without any errors.
+
+
+Problem2:
+
+  I have written a html file: index.html 
+  which can be run on any chrome browser to see the iframe of the reviews been rendered by third party.
+
+
+All` the images are also stored for your reference on how I tried to gather the data.
+
+I wish I had more time to play with this project, but unfortunately I have to work on my school projects.
+
