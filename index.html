@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h2>This is an Iframe - Target for a reputation.com link that renders reviews</h2>
+    <!-- <p><a href="https://widgets.reputation.com/widgets/57fe51f5e4b013a2a7880b31/run?tk=be83114f5ec" target="iframe_a">Reputation Reviews</a></p>
+    <iframe height="600px" width="90%" name="iframe_a"></iframe> -->
+   
+    <!-- <iframe height="600px" width="90%" name="iframe_a"></iframe> -->
+    <p><a class="reputation-widget" target="iframe_a"
+     href="https://widgets.reputation.com/widgets/57fe51f5e4b013a2a7880b31/run?tk=be83114f5ec" data-tk="be83114f5ec" 
+     data-widget-id="57fe51f5e4b013a2a7880b31" env="">Reputation Reviews</a></p>
+      
+    
+    <script>!function(d,s,c)
+            {var js, 
+                 fjs=d.getElementsByTagName(s)[0],
+                 p=/^http:/.test(d.location)?"http":"https";
+                 js=d.createElement(s);
+                 js.className=c;
+                 js.src=p+"://widgets.reputation.com/src/client/widgets/widgets.js";
+                //js.src="./widgets.js";
+                 fjs.parentNode.insertBefore(js,fjs);}(document, "script", "reputation-wjs");</script>    
+     
+</body>
+</html>
