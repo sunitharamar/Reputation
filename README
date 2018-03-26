@@ -21,6 +21,8 @@ Problem1
 1) I have implemented in Jupyter notebook which is using Pandas and ipython.
 
    "find_doctors.ipynb"
+   and converted the ipython to python script
+   "find_doctors.py"
 
   I had quite a few challenges with getting the data, and some of them still dont work, but I did my best to write the code on how I would scrape the data.  Spent almost two full days working on it, though not all the code works but I really enjoyed working with this challenge and learnt a lot on how secured websites work.
 
