@@ -9,6 +9,10 @@ splinter==0.7.6
 pandas==0.20.3
 
 
+
+All my images are in a folder called: "img"
+
+
 How to run the app:
 
 Please look at the word doc which I've attached all my schreenshots and note of the code as well.
